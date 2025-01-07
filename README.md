@@ -1,70 +1,89 @@
-# Lens Holiday Hackathon
+Project Name: LensLight
+Team Members: Manan Singhal
+Project Description:
+# LensLight: Social-Powered Public Goods Funding
+## Executive Summary
+LensLight revolutionizes public goods funding by combining the power of social proof through Lens Protocol with innovative quadratic funding mechanisms. Our platform enables transparent, community-driven support for public initiatives while leveraging social connections to build trust and engagement.
 
-The Lens Holiday Hackathon is an opportunity to build innovative projects on Lens Network, compete for prizes, and showcase your work to the Lens community.
+## The Problem
+Traditional public goods funding faces three critical challenges:
+1. Trust deficit between project creators and funders
+2. Inefficient allocation of resources
+3. Lack of sustained community engagement
+4. Limited transparency in fund utilization
+5. Difficulty in verifying project impact
 
-### Key Dates
+## Our Solution
+LensLight addresses these challenges through a unique combination of social integration and blockchain technology:
 
-- **Kickoff:** December 16th, 2024 at 4pm CET
-- **Submission Deadline:** January 7th, 2025 at 4pm CET
-- **Voting/Judging Period:** January 7th, 2025 at 4pm CET – January 12th, 2025 at 4pm CET
+### Core Features
 
-### Tracks and Themes
+**🔍 Social-Verified Projects**
+- Direct integration with Lens profiles for creator verification
+- Social graph visualization showing mutual connections
+- Reputation system built on past contributions
+- Community endorsements and social signals
 
-Lens network is a high performance chain, built for SocialFi use cases, currently on testnet. For this holiday hackathon, Lens are inviting all developers to hack on the network.
+**💡 Intelligent Fund Distribution**
+- Quadratic funding mechanism for democratic resource allocation
+- Milestone-based fund release through smart contracts
+- Impact-weighted matching pools
+- Real-time funding simulation and impact calculator
 
-Any application deployed to [Lens Network Testnet](https://dev-preview.lens.xyz/docs/network/overview) and using [Family’s Connect Kit](https://docs.family.co/connectkit) when possible. Potential ideas include:
+**🤝 Community Engagement**
+- Native integration with Lens posts for project updates
+- Social signal-based project discovery
+- On-chain voting for project prioritization
+- Direct community feedback loops
 
-- Social/SocialFi apps using features like Feeds, Social Graphs, etc.
-- Meme-adjacent projects
-- Public goods
-- Games
-- AI agents and products
+**📊 Impact Tracking**
+- Milestone completion verification
+- Transparent fund utilization metrics
+- Community-validated impact assessments
+- Real-time progress updates
 
-### Prizes
+## Technical Innovation
 
-- **1st Prize:** 20,000 GHO
-- **2nd Prize:** 10,000 GHO
-- **3rd Prize:** 5,000 GHO
-- **Honorary Mentions (x5):** 3,000 GHO
+### Lens Protocol Integration
+- Leverages Lens social graph for project discovery
+- Posts and comments for project updates
+- Social signals for project credibility
+- Profile-based reputation system
 
-### Rules
+### Smart Contract Architecture
+- Secure escrow system for milestone-based funding
+- Quadratic funding implementation
+- GHO token integration for contributions
+- Automated fund distribution
 
-1. Build on [Lens Network Testnet](https://dev-preview.lens.xyz/docs/network/overview), use [ConnectKit](https://github.com/family/connectkit) where applicable. Get $GRASS Testnet Tokens [here](https://dev-preview.lens.xyz/docs/network/tools/faucets).
-2. For troubleshooting, write to us on Telegram.
-3. The maximum number of hackers per team is 4.
-4. Submissions should be open source and built using the Lens network on Testnet. Code must be new, starting on December 16th, 2024 at 4pm CET. Any other submissions will not be considered.
-5. Submissions with commits after the deadline of January 7th, 2025 at 4pm CET will be disqualified.
-6. Teams must submit their projects for review via:
-   1. Lens Holiday Hackathon GitHub, by following [these steps](#submit-your-project).
-   2. [Jokerace Entry](https://jokerace.io/contest/polygon/0x552bdf3d0acfa0bc398607fd675d3b4cce6aabdf). Submissions that are not in Jokerace won’t be able to be voted, therefore disqualified.
-7. Final submission must include:
-   1. Clear and concise README.
-   2. Prototype app.
-   3. Demo video / slide deck (you are welcomed to anonymize your voice / be camera off).
-8. Projects must adhere to the hackathon terms of service.
+### User Experience
+- Seamless wallet connection with ConnectKit
+- Intuitive project submission flow
+- Real-time funding impact visualization
+- Mobile-responsive design
 
-### Submit Your Project
+## Impact & Vision
+LensLight aims to create a new standard for public goods funding where social connections and community engagement drive resource allocation. By combining social proof with transparent fund management, we're building a platform that:
 
-1. **Fork and Submit a PR:**
-   - Fork the Lens Holiday Hackathon repository.
-   - Create a new Markdown (.md) file for your project submission with the format below.
-   - Commit and push your submission file to your fork repo.
-   - Submit a pull request with your project.
+- Increases trust in public goods funding
+- Enables more efficient resource allocation
+- Encourages sustained community participation
+- Creates verifiable impact metrics
+- Fosters long-term project success
 
-[Here](https://jarv.is/notes/how-to-pull-request-fork-github/) is a tutorial with steps to Fork and Submit a PR.
+## Market Opportunity
+The platform addresses a growing need for transparent, community-driven funding solutions:
+- $1B+ in annual public goods funding
+- Rising interest in social impact projects
+- Growing adoption of decentralized funding mechanisms
+- Increasing demand for transparent resource allocation
 
-2. **PR Format:**
-   - **Project Name:**
-   - **Team Members:** (Name and Lens Handle)
-   - **Project Description:**
-   - **Source Code Link:**
-   - **Preview Link (Optional):**
-   - **Demo Video/Slide Deck Link (Optional):**
-   - **Screenshots (Optional):**
+## Why It Matters
+LensLight represents a paradigm shift in how we fund public goods:
+1. **Trust**: Social connections create accountability
+2. **Efficiency**: Quadratic funding ensures democratic allocation
+3. **Engagement**: Community participation drives success
+4. **Impact**: Transparent tracking validates outcomes
+5. **Innovation**: Blockchain technology enables new funding models
 
-### Troubleshooting:
-
-1. You can ask the community and the Lens devs questions by writing on our [Telegram](http://t.me/lensdevs).
-2. Ask in public, in the Hackathons channel. Neither devs nor the community will answer via DM.
-3. Share what you’re building with others. Building the same thing as another team? Merge teams! Anything goes as long as what you build is amazing.
-4. Be kind, respectful and patient. Some days might be slower on responses than others, as we are also on a holiday week.
+Join us in revolutionizing public goods funding through the power of social connections and transparent resource allocation.
